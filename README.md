@@ -12,6 +12,7 @@ There are a few programs that we will need to install ...
 | **Python** | A programming language | Lets developers write instructions that a computer can run, It is used to build tools, automate tasks, analyse data, and more |
 | **Git** | A version control system | Tracks every change ever made to a project's code, so a team can see the full history, undo mistakes, and work on the same files without overwriting each other |
 | **pip** | A package installer for Python | Downloads and installs ready-made code libraries so developers don't have to build everything from scratch, it works like an appstore for python |  
+  
 (Bias towards including tables - Etter)
 
 Run the following command in your Terminal application
@@ -99,6 +100,16 @@ ghp-import output -b pages
 git push origin gh-pages
 ```
 
+Here is a brief explaination of what each command does
+
+1. **Builds your website**  
+   Think of this like hitting "Print" it takes all your raw content and converts it into a polished website ready to be seen by visitors.
+2. **Packages the website for upload**  
+   This bundles your freshly built website into a format that GitHub can understand and serve to the public
+3. **Publishes the website live**  
+   This is the "Send" button it uploads your packaged website to GitHub, making it instantly visible to anyone with your website's address.
+
+
 #### Step 8 – Tell GitHub to Serve Your Website
 This is a one-time setting you only need to configure once:
 
@@ -117,10 +128,22 @@ https://marvinmclaren.github.io
 
 Paste that address into your browser to see it!
 
-> !Making Updates in the Future
-* Whenever you want to update your website, simply repeat **Step 7**. Your changes will be live within a couple of minutes.
+> [!Making Updates in the Future]
+> Whenever you want to update your website, simply repeat **Step 7**. Your changes will be live within a couple of minutes.
 
 ## Futher Resources
+
+[Official Github Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+GitHub uses a flavor of Markdown called GitHub Flavored Markdown (GFM), which extends standard Markdown with extras like task lists, tables, syntax-highlighted code blocks, and @mentions. 
+
+[Learn More About How To Use Git](https://learngitbranching.js.org/)
+Learn Git Branching is an interactive, visual tool that teaches you how Git works through hands-on challenges directly in the browser. 
+
+[Learn About The Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+Python is a high-level, general-purpose programming language it is one most popular languages in the world. It is the programming language behind Pelican.
+
+[Learn About The PIP Package Manager](https://en.wikipedia.org/wiki/Pip_(package_manager))
+pip (short for "Pip Installs Packages") is the standard package manager for Python, allowing developers to easily install and manage third-party libraries.
 
 ## FAQ
 
