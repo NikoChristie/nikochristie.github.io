@@ -87,7 +87,8 @@ pelican-quickstart
 Answer the questions with the following answer  
 
 
-![Pelican Quick Start Answers](https://github.com/NikoChristie/nikochristie.github.io/blob/master/Images/PelicanQuickStart.png)
+![Pelican Quick Start Answers](https://github.com/NikoChristie/nikochristie.github.io/blob/master/Images/PelicanQuickStart.png)  
+(Use Images - Etter)
 
 ### Step 6 - Create Your New Post
 
