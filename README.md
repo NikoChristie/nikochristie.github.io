@@ -84,8 +84,8 @@ Pelican includes a setup assistant that asks you a few simple questions. Run:
 pelican-quickstart
 ```
 
-Answer the questions with the following answers
-[!Pelican Quick Start Answers](Images/PelicanQuickStart.png)
+Answer the questions with the following answer  
+[!Pelican Quick Start Answers](https://github.com/NikoChristie/nikochristie.github.io/blob/master/Images/PelicanQuickStart.png)
 
 ### Step 6 - Create Your New Post
 
